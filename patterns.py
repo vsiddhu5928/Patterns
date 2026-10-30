@@ -1,5 +1,6 @@
 
 """
+example:3
 rows=int(input("rows:"))
 if rows>0:
     for rownum in range(1,rows+1):
@@ -9,6 +10,7 @@ else:
  
 """  
 """
+#example:4
 rows=int(input("rows:"))
 if rows>0:
     data=1
